@@ -59,3 +59,49 @@ docker ps  # To check running container
 
 * Metrics = System
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/3efa9dfaa2c60f3ae3d9a12779978c6c28d553f7/Netdata_Screenshots/SS2.JPG)
+
+* Metrics = CPU
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS3.JPG)
+
+
+* Metrics = Memory
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS4.JPG)
+
+* Metrics = RAM
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS5.JPG)
+
+* Metrics = Hardware
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS6.JPG)
+
+* Metrics = Disk(I/O)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS7.JPG)
+
+* Metrics = Disk(IOPS)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS8.JPG)
+
+* Metrics = Disk(Latency)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS9.JPG)
+
+* Metrics = Disk(Utilization)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS10.JPG)
+
+* Metrics = Mount Points
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS11.JPG)
+
+* Metrics = Docker
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS12.JPG)
+
+* Metrics = Docker(Summary)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS13.JPG)
+
+* Metrics = Docker(Containers)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS14.JPG)
+
+* Metrics = Docker(Health)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS15.JPG)
+
+* Metrics = Docker(Images)
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS16.JPG)
+
+* Alerts
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS17.JPG)
