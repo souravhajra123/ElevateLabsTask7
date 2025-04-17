@@ -55,3 +55,7 @@ docker ps  # To check running container
 ## 5. Now access the `Netdata` dashboard using `Publi IP` of base machine on Port `19999`
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/8bfe6f187a0dd635f4a8ea5c65b6c0d409fb4ccd/Netdata_Screenshots/SS1.JPG)
 
+## 6. Screenshots of the `Netdata` dashboard is given below ---
+
+* Metrics = System
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/3efa9dfaa2c60f3ae3d9a12779978c6c28d553f7/Netdata_Screenshots/SS2.JPG)
