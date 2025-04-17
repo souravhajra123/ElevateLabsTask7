@@ -105,3 +105,17 @@ docker ps  # To check running container
 
 * Alerts
 ![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/b686183fc17918cf8b6ee678f43e0ce2fceeb086/Netdata_Screenshots/SS17.JPG)
+
+## 7. Check `Netdata` logs
+```bash
+docker exec -it netdata /bin/bash      # To go inside the docker(netdata) container
+cd /var/log/netdata                    # To change the directory to /var/log/netdata
+ls                                     # Here you can see all log files
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/85f26f24528ea4bda6fe78189500f52926a71f5f/images/5.JPG)
+
+## 8. Check `Netdata` logs logs using `docker log` command
+```bash
+docker logs netdata
+```
+![image alt](https://github.com/souravhajra123/ElevateLabsTask7/blob/85f26f24528ea4bda6fe78189500f52926a71f5f/images/6.JPG)
